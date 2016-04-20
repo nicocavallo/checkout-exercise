@@ -1,4 +1,5 @@
 # Checkout Exercise
 
-Usage: "sbt run <Products separated by space>"
-Example: "sbt run Apple Orange"
+* Usage: "sbt run <List of Products separated by space>"
+
+* Example: "sbt run Apple Orange"
