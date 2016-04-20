@@ -1,4 +1,4 @@
-name := "checkoutexercise"
+name := "checkout-exercise"
 
 version := "1.0"
 
